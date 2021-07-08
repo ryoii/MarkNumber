@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>cn.ryoii.MarkNumber</id>
+    <name>Mark Number</name>
+    <vendor email="ryoii@foxmail.com" url="https://ryoii.cn">ryoii</vendor>
+
+    <description><![CDATA[
+    Mark sequence of numbers for the selected text.
+    ]]></description>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="MarkNumber" class="cn.ryoii.action.MarkNumberAction" text="MarkNumber" description="MarkNumber">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="shift alt N"/>
+        </action>
+    </actions>
+</idea-plugin>

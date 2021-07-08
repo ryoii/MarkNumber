@@ -1,0 +1,13 @@
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Icon</title>
+  <text fill="#326CE5" stroke-width="0" x="11" y="16" id="t1" font-size="6" font-family="Helvetica, Arial, sans-serif" xml:space="preserve" transform="matrix(1.6667059659957886,0,0,1.5413273572921753,-7.417103871703148,-4.203745258972049) " >1.</text>
+  <text fill="#326CE5" stroke-width="0" x="11" y="24" id="t2" font-size="6" font-family="Helvetica, Arial, sans-serif" xml:space="preserve" transform="matrix(1.6667059659957886,0,0,1.5413273572921753,-7.417103871703148,-4.203745258972049) " >2.</text>
+  <text fill="#326CE5" stroke-width="0" x="11" y="32" id="t3" font-size="6" font-family="Helvetica, Arial, sans-serif" xml:space="preserve" transform="matrix(1.6667059659957886,0,0,1.5413273572921753,-7.417103871703148,-4.203745258972049) ">3.</text>
+  <path fill="#326CE5" stroke-width="0" d="m50.69379,12.25553l-3.4116,-3.03875c-0.86076,-0.76593 -1.99496,-0.39729 -2.53733,0.82277l-1.3447,3.03308l6.52654,5.80908l1.34576,-3.03167c0.54031,-1.22152 0.28244,-2.83029 -0.57867,-3.59452l0,0l0,0.00001zm-18.90763,27.02148l6.52689,5.80902l10.63776,-23.99838l-6.53,-5.81054l-10.63465,23.9999l0,0.00001l0,-0.00001zm-0.99698,7.38058l-0.14416,5.45631l3.40637,-2.55331l3.16549,-2.36855l-6.29671,-5.60769l-0.13099,5.07324l0,0l0,0z" id="svg_8" stroke="#000" transform="rotate(10 41,30) "/>
+
+  <path fill="#326CE5" d="M20,15h22L38.8,20L20,20" id="line1"/>
+  <path fill="#326CE5" d="M20,27h14.2L30.6,32L20,32 M49,29v3h-2.4" id="line2"/>
+  <path fill="#326CE5" d="M20,39h6.5L25.6,44L20,44M42,39h7v5h-10" id="line3"/>
+ </g>
+</svg>
